@@ -20,4 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello!
 
-I am Saketika Chekuri, a fourth-year undergradute in the Department of [Electrical Engineering](https://www.ee.iitb.ac.in/) at [IIT Bombay](https://www.iitb.ac.in/). 
+I am Saketika Chekuri, a fourth-year [Electrical Engineering](https://www.ee.iitb.ac.in/) undergradute at [IIT Bombay](https://www.iitb.ac.in/). 
+
+
+You can find my CV [here](../assets/pdf/Saketika_CV.pdf).
