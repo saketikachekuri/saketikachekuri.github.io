@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /Saketika_CV.pdf/
+permalink: "/assets/pdf/Saketika_CV.pdf"
 title: CV
 nav: true
 nav_order: 4
