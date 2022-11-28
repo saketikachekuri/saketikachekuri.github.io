@@ -6,5 +6,3 @@ nav: true
 nav_order: 4
 cv_pdf: Saketika_CV.pdf
 ---
-
-(3-page CV)
