@@ -22,4 +22,4 @@ Hello!
 
 I am Saketika Chekuri, a first-year Master's student in the Department of Electrical Engineering at Stanford University. Previously, I was an Electrical Engineering undergraduate studying at the [IIT Bombay](https://www.iitb.ac.in/).
 
-I'm primarily interested in analog and mixed-signal design; you can find my CV [here](../assets/pdf/Saketika_CV.pdf).
+I'm primarily interested in analog and mixed-signal design; you can find my CV [here](../assets/pdf/Saketika_CV.pdf) and a list of my projects and reports [here](https://github.com/saketikachekuri/Projects).
