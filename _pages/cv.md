@@ -2,9 +2,9 @@
 layout: cv
 permalink: /cv/
 title: CV
-desc: 3 Page
-desc2: Last updated on 29-Nov-2022 
+desc: 4 Page
+desc2: Last updated on Sep 18 2022 
 nav: true
 nav_order: 4
-cv_pdf: Saketika_CV.pdf
+cv_pdf: CV.pdf
 ---
